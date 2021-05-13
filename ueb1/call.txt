@@ -1,0 +1,21 @@
+:load ueb1
+
+myhead[1,2,3]
+
+mytail[1,2,3]
+
+mylast[1,2,3]
+
+myinit[1,2,3]
+
+myreverse[1,2,3]
+
+fizzBuzz(15)
+
+take 7 fibonacci
+fibonacci !! 7
+
+take 10 primes
+
+[primeFactors x| x <- [1..10]]
+primeFactors(15)
